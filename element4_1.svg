@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 9.77 30.49">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: url(#radial-gradient-6);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2.2px;
+      }
+
+      .cls-2 {
+        stroke: url(#radial-gradient-3);
+      }
+
+      .cls-3 {
+        stroke: url(#radial-gradient-4);
+      }
+
+      .cls-4 {
+        stroke: url(#radial-gradient-2);
+      }
+
+      .cls-5 {
+        stroke: url(#radial-gradient-5);
+      }
+
+      .cls-6 {
+        stroke: url(#radial-gradient);
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="4.89" cy="-17.7" fx="4.89" fy="-17.7" r="4.22" gradientTransform="translate(0 47.56) scale(1 1.18)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cef2ff"/>
+      <stop offset="1" stop-color="#69d7ff"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="355" cy="-17.7" fx="355" fy="-17.7" r="4.22" gradientTransform="translate(359.89 47.56) rotate(-180) scale(1 -1.18)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-3" cy="-27.35" fy="-27.35" r="4.22" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-4" cx="355" cy="-27.35" fx="355" fy="-27.35" r="4.22" gradientTransform="translate(359.89 47.56) rotate(-180) scale(1 -1.18)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-5" cy="-37" fy="-37" r="4.22" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-6" cx="355" cy="-37" fx="355" fy="-37" r="4.22" gradientTransform="translate(359.89 47.56) rotate(-180) scale(1 -1.18)" xlink:href="#radial-gradient"/>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g>
+        <line class="cls-6" x1="1.1" y1="29.39" x2="8.67" y2="23.89"/>
+        <line class="cls-4" x1="8.67" y1="29.39" x2="1.1" y2="23.89"/>
+      </g>
+      <g>
+        <line class="cls-2" x1="1.1" y1="17.99" x2="8.67" y2="12.5"/>
+        <line class="cls-3" x1="8.67" y1="17.99" x2="1.1" y2="12.5"/>
+      </g>
+      <g>
+        <line class="cls-5" x1="1.1" y1="6.59" x2="8.67" y2="1.1"/>
+        <line class="cls-1" x1="8.67" y1="6.59" x2="1.1" y2="1.1"/>
+      </g>
+    </g>
+  </g>
+</svg>
